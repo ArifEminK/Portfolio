@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+/* Global overflow control */
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+@theme {
+  --font-FunnelSans-Medium: "FunnelSans-Medium";
+  --font-FunnelSans-Regular: "FunnelSans-Regular";
+  --font-FunnelSans-SemiBold: "FunnelSans-SemiBold";
+  --font-FunnelSans-Bold: "FunnelSans-Bold";
+  --font-FunnelSans-Light: "FunnelSans-Light";
+  --font-FunnelSans-ExtraBold: "FunnelSans-ExtraBold";
+  --font-GoogleSansCode-Regular: "GoogleSansCode-Regular";
+  --font-GoogleSansCode-Medium: "GoogleSansCode-Medium";
+  --font-GoogleSansCode-SemiBold: "GoogleSansCode-SemiBold";
+  --font-GoogleSansCode-Bold: "GoogleSansCode-Bold";
+  --font-GoogleSansCode-Light: "GoogleSansCode-Light";
+  --font-GoogleSansCode-ExtraBold: "GoogleSansCode-ExtraBold";
+
+  --color-bg-primary: #030712;
+  --color-foreground: #f8fafc;
+  --color-muted: #94a3b8;
+  --color-primary: #1e293b;
+  --color-primary-dark: #0f172a;
+  --color-accent: #3b82f6;
+  --color-accent-light: #60a5fa;
+  --color-border: #1e293b;
+  --color-card: #0f172a;
+  --color-danger: #ef4444;
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-card-light: #222222;
+}
+
+@font-face {
+  font-family: "FunnelSans-Medium";
+  src: url("/fonts/FunnelSans-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FunnelSans-Regular";
+  src: url("/fonts/FunnelSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FunnelSans-SemiBold";
+  src: url("/fonts/FunnelSans-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FunnelSans-Bold";
+  src: url("/fonts/FunnelSans-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FunnelSans-Light";
+  src: url("/fonts/FunnelSans-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FunnelSans-ExtraBold";
+  src: url("/fonts/FunnelSans-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "GoogleSansCode-Regular";
+  src: url("/fonts/GoogleSansCode-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "GoogleSansCode-Medium";
+  src: url("/fonts/GoogleSansCode-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "GoogleSansCode-SemiBold";
+  src: url("/fonts/GoogleSansCode-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "GoogleSansCode-Bold";
+  src: url("/fonts/GoogleSansCode-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "GoogleSansCode-Light";
+  src: url("/fonts/GoogleSansCode-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "GoogleSansCode-ExtraBold";
+  src: url("/fonts/GoogleSansCode-ExtraBold.ttf") format("truetype");
+}

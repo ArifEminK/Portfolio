@@ -1,0 +1,57 @@
+{
+  "navigation": {
+    "education": "Eğitim ve Sertifikalarım",
+    "educationShort": "Eğitim",
+    "projects": "Projelerim",
+    "projectsShort": "Projelerim",
+    "contact": "İletişim"
+  },
+  "home": {
+    "downloadCV": "CV'yi İndir",
+    "educationTitle": "Eğitim ve Sertifikalar",
+    "skillsTitle": "Becerilerim",
+    "viewAll": "Tümünü Gör",
+    "bottomText": "Tüm haklar satın alınmıştır."
+  },
+  "contact": {
+    "title": "İletişime Geç",
+    "description": "Benimle iletişime geçmek için aşağıdaki kanalları kullanabilir veya sağdaki formu doldurabilirsiniz.",
+    "socials": "Sosyal Medya",
+    "name": "Ad Soyad",
+    "namePlaceholder": "Adınızı ve soyadınız",
+    "email": "E-posta",
+    "emailPlaceholder": "ornek@email.com",
+    "subject": "Konu",
+    "subjectPlaceholder": "Mesajınızın konusu",
+    "messageTitle": "Mesaj Gönder",
+    "message": "Mesaj",
+    "messagePlaceholder": "Mesajınızı buraya yazın...",
+    "button": "Mesajı Gönder",
+    "success": "Mesaj başarıyla gönderildi!",
+    "error": "Mesaj gönderimi sırasında bir hata oluştu!",
+    "phone": "Telefon"
+  },
+  "projects": {
+    "projectsTitle": "Projelerim",
+    "viewAll": "Tümünü Gör",
+    "description": "GitHub'da geliştirdiğim tüm projeler"
+  },
+  "education": {
+    "educationTitle": "Eğitim ve Sertifikalar",
+    "viewAll": "Tümünü Gör",
+    "description": "Tüm eğitim geçmişim ve aldığım sertifikalar"
+  },
+  "skills": {
+    "skillsTitle": "Becerilerim",
+    "skillsDescription": "Tüm becerilerim",
+    "language": "Programlama Dili",
+    "program": "Program",
+    "tool": "Araç",
+    "framework": "Framework",
+    "database": "Veritabanı",
+    "beginner": "Başlangıç",
+    "intermediate": "Orta",
+    "advanced": "İleri",
+    "expert": "Uzman"
+  }
+}

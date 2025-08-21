@@ -1,0 +1,57 @@
+{
+  "navigation": {
+    "education": "Education & Certificates",
+    "educationShort": "Education",
+    "projects": "My Projects",
+    "projectsShort": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "downloadCV": "Download CV",
+    "educationTitle": "Education & Certificates",
+    "skillsTitle": "My Skills",
+    "viewAll": "View All",
+    "bottomText": "All rights reserved."
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "You can use the channels below to contact me or fill out the form on the right.",
+    "socials": "Social Media",
+    "name": "Name",
+    "namePlaceholder": "Your name and surname",
+    "email": "Email",
+    "emailPlaceholder": "example@email.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "Your message subject",
+    "messageTitle": "Send Message",
+    "message": "Message",
+    "messagePlaceholder": "Write your message here...",
+    "button": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Error sending message!",
+    "phone": "Phone"
+  },
+  "projects": {
+    "projectsTitle": "My Projects",
+    "viewAll": "View All",
+    "description": "All of my projects on GitHub"
+  },
+  "education": {
+    "educationTitle": "Education & Certificates",
+    "viewAll": "View All",
+    "description": "All of my education and certificates"
+  },
+  "skills": {
+    "skillsTitle": "My Skills",
+    "skillsDescription": "All of my skills",
+    "language": "Programming Language",
+    "program": "Program",
+    "tool": "Tool",
+    "framework": "Framework",
+    "database": "Database",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "expert": "Expert"
+  }
+}

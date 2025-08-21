@@ -1,0 +1,57 @@
+{
+  "navigation": {
+    "education": "Ausbildung & Zertifikate",
+    "educationShort": "Ausbildung",
+    "projects": "Meine Projekte",
+    "projectsShort": "Projekte",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "downloadCV": "CV herunterladen",
+    "educationTitle": "Ausbildung & Zertifikate",
+    "skillsTitle": "Meine Fähigkeiten",
+    "viewAll": "Alle anzeigen",
+    "bottomText": "Alle Rechte vorbehalten."
+  },
+  "contact": {
+    "title": "Kontaktiere mich",
+    "description": "Um mit mir Kontakt aufzunehmen, können Sie die unten aufgeführten Kanäle nutzen oder das Formular rechts ausfüllen.",
+    "socials": "Soziale Medien",
+    "name": "Name",
+    "namePlaceholder": "Ihr Name und Ihr Nachname",
+    "email": "Email",
+    "emailPlaceholder": "example@email.com",
+    "subject": "Betreff",
+    "subjectPlaceholder": "Betreff Ihrer Nachricht",
+    "messageTitle": "Nachricht senden",
+    "message": "Nachricht",
+    "messagePlaceholder": "Schreiben Sie Ihre Nachricht hier...",
+    "button": "Nachricht senden",
+    "success": "Nachricht erfolgreich gesendet!",
+    "error": "Fehler beim Senden der Nachricht!",
+    "phone": "Telefon"
+  },
+  "projects": {
+    "projectsTitle": "Meine Projekte",
+    "viewAll": "Alle anzeigen",
+    "description": "Alle meine Projekte auf GitHub"
+  },
+  "education": {
+    "educationTitle": "Ausbildung & Zertifikate",
+    "viewAll": "Alle anzeigen",
+    "description": "Alle meine Ausbildung und Zertifikate"
+  },
+  "skills": {
+    "skillsTitle": "Meine Fähigkeiten",
+    "skillsDescription": "Alle meine Fähigkeiten",
+    "language": "Programmiersprache",
+    "program": "Programm",
+    "tool": "Werkzeug",
+    "framework": "Framework",
+    "database": "Datenbank",
+    "beginner": "Anfänger",
+    "intermediate": "Mittel",
+    "advanced": "Fortgeschritten",
+    "expert": "Experte"
+  }
+}
