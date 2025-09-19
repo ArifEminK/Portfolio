@@ -25,7 +25,7 @@ export interface CreateEducationData {
 
 export interface UpdateEducationData extends Partial<CreateEducationData> {}
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL;
 
 export const useEducation = () => {
   const [education, setEducation] = useState<Education[]>([]);

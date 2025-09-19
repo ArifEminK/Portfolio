@@ -63,7 +63,7 @@ export interface UpdateAnimatedText {
   isActive?: boolean;
 }
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL;
 
 export const useMainPage = () => {
   const [mainPageData, setMainPageData] = useState<MainPageData | null>(null);

@@ -83,7 +83,7 @@ export default function Page() {
           >
             <motion.button
               onClick={() => {
-                window.open('/cv4.pdf', '_blank');
+                window.open('/cv.pdf', '_blank');
               }}
               className="bg-foreground hover:bg-muted cursor-pointer text-card px-4 py-2 rounded-md font-GoogleSansCode-Medium mt-2 transition-all duration-300 transform hover:scale-105"
               whileHover={{
