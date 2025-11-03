@@ -28,9 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION && (
-          <meta name="google-site-verification" content={process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION} />
-        )}
+        <meta name="google-site-verification" content="l5eWY4ygjzW4za1bGUMeoR2mccNvDKettViCajsNZUA" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} h-full w-full`}>
         {children}
