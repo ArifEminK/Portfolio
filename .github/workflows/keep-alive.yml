@@ -2,7 +2,7 @@ name: Keep Render Alive
 
 on:
   schedule:
-    - cron: "*/2 * * * *"   # Her 2 dakikada bir çalışır
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 jobs:
